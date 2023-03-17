@@ -1,7 +1,6 @@
 Touched by user2
 
-merge 중복 실험
-merge 중복 실험2
+2번 질문 중복실험
 
 
 
@@ -13,3 +12,4 @@ merge 중복 실험2
 별명 : hurayballata
 사는지역: 청담동
 알바 경험: 홀서빙 알바
+2
